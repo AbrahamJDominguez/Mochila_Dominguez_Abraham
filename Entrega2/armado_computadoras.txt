@@ -1,0 +1,74 @@
+Gama Baja 
+
+Intel
+
+Procesador: Core i3 7100
+Placa Madre: ASUS Prime B360M-A
+Memoria principal: Kingston Fury Impact 16GB 2666Mhz DDR4
+Memoria secundaria: Adata Su800 1tb 2.5 Sata3
+
+AMD 
+
+Procesador: Ryzen 3 2200g
+Placa Madre: B550mh Am4 Ddr4 Micro Atx
+Memoria principal: Corsair Vengeance LPX 16 GB DDR4 3600 MHz
+Memoria secundaria:  Adata Su800 1tb 2.5 Sata3
+
+Libre
+
+Procesador:
+Placa Madre:
+Memoria principal:
+Memoria secundaria:
+
+Gama Media 
+
+Intel
+
+Procesador: Core i5 10400
+Placa Madre: ASRock Z590 PG
+Memoria principal: GeIL ORION 16GB (2 x 8GB) 288-Pin DDR4 3000
+Memoria secundaria: Adata Su800 1tb 2.5 Sata3
+GPU: GeForce GT 1030 2GD4 LP OC
+
+AMD
+
+Procesador: Ryzen 5 1600X
+Placa Madre: A320M ASRock 
+Memoria principal: Ripjaws V Series 16GB (2X 8GB) 288-Pin DDR4 2400
+Memoria secundaria: Samsung 970 EVO SSD 1TB
+GPU: GTX 1060-6GB
+
+Libre
+
+Procesador:
+Placa Madre:
+Memoria principal:
+Memoria secundaria:
+GPU:
+
+Gama Alta
+
+Intel
+
+Procesador:
+Placa Madre:
+Memoria principal:
+Memoria secundaria:
+GPU:
+
+AMD
+
+Procesador:
+Placa Madre:
+Memoria principal:
+Memoria secundaria:
+GPU:
+
+Libre
+
+Procesador:
+Placa Madre:
+Memoria principal:
+Memoria secundaria:
+GPU:
