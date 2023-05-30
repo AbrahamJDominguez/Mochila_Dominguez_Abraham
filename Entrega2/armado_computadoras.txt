@@ -16,10 +16,10 @@ Memoria secundaria:  Adata Su800 1tb 2.5 Sata3
 
 Libre
 
-Procesador:
-Placa Madre:
-Memoria principal:
-Memoria secundaria:
+Procesador: Intel Pentium G6400 
+Placa Madre: Asrock B460M DS3H
+Memoria principal: DDR4 8GB
+Memoria secundaria:  Adata Su800 1tb 2.5 Sata3
 
 Gama Media 
 
@@ -41,34 +41,34 @@ GPU: GTX 1060-6GB
 
 Libre
 
-Procesador:
-Placa Madre:
-Memoria principal:
-Memoria secundaria:
-GPU:
+Procesador: AMD Ryzen 5
+Placa Madre: ATX AMD X570
+Memoria principal: Kingston Fury Beast RGB DDR4
+Memoria secundaria: Samsung 970 EVO SSD 1TB
+GPU: GeForce GTX 1660 SUPER 6 GB
 
 Gama Alta
 
 Intel
 
-Procesador:
-Placa Madre:
-Memoria principal:
-Memoria secundaria:
-GPU:
+Procesador: Core i9 11900k
+Placa Madre: ATX Z490
+Memoria principal: Vengeance LPX 16GB (2 x 8GB)
+Memoria secundaria: Seagate 2TB BarraCuda SATA 2.5"
+GPU: GeForce RTX 3060 Ventus
 
 AMD
 
-Procesador:
-Placa Madre:
-Memoria principal:
-Memoria secundaria:
-GPU:
+Procesador: AMD Ryzen 7 5700G
+Placa Madre: ROG Strix B550-F 
+Memoria principal: Vengeance LPX 16GB (2 x 8GB)
+Memoria secundaria: Seagate 2TB BarraCuda SATA 2.5"
+GPU: GeForce RTX 3060 
 
 Libre
 
-Procesador:
-Placa Madre:
-Memoria principal:
-Memoria secundaria:
-GPU:
+Procesador: Core i9-12900K
+Placa Madre: Tuf Gaming B760m-plus
+Memoria principal: Adata AD5U48008G-S DDR5 32GB
+Memoria secundaria: Seagate 2TB BarraCuda SATA 2.5"
+GPU: GeForce RTX 3070
