@@ -1,0 +1,12 @@
+1.-Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas
+operativos y en otros no?
+Porque para que el sistema entienda al lenguaje se requiere un interprete, el cual puede no
+estar disponible para todos los sistemas
+
+2.- Que tipo de maquina virtual es virtualBox?
+Es una maquina virtual de sistemas. Clasidicada como maquina virtual de tipo 2.
+
+3.- Si tengo mas de una maquina virtual instalada y una se rompre, esto afecta a las demas?
+No, porque son entornos separados
+
+
